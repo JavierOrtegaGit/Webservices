@@ -1,0 +1,9 @@
+(2017/5/23 12:8:6) **************** ZTE Driver Install ****************
+
+(2017/5/23 12:8:6) Version    : 1.0.1.42_TME 
+(2017/5/23 12:8:6) OperateCode: Uninstall
+(2017/5/23 12:8:6) OS Version : (2017/5/23 12:8:6) Professional (2017/5/23 12:8:6)  (Build 9200)
+(2017/5/23 12:8:6) Directory : C:\Windows\SysWOW64\massfilter
+(2017/5/23 12:8:6) Search file name: C:\Windows\SysWOW64\massfilter\Drivers\32bit\\*.sys
+(2017/5/23 12:8:6) FindFirstFile(sys) FAILURE: El sistema no puede encontrar el archivo especificado.
+(2017/5/23 12:8:6) Error:Search sys file 1; inf file 1
